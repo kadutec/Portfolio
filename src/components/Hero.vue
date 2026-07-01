@@ -22,13 +22,13 @@
             <span class="purple">const</span> <span class="blue">developer</span> = {
                 <span class="orange">name</span>: <span class="greenText">"Carlos"</span>,
                 <span class="orange">role</span>: <span class="greenText">"FullStack Developer"</span>,
-                <span class="orange">stack</span>: [
-                    <span class="greenText">"Laravel"</span>,
-                    <span class="greenText">"Vue.js"</span>,
-                    <span class="greenText">"PHP"</span>,
-                    <span class="greenText">"MySQL"</span>
+                <span class="orange">softSkills</span>: [
+                    <span class="greenText">"Communication"</span>,
+                    <span class="greenText">"Teamwork"</span>,
+                    <span class="greenText">"Adaptability"</span>
                 ],
-                <span class="orange">cleanCode</span>: <span class="blue">true</span>
+                <span class="orange">cleanCode</span>: <span class="blue">true</span>,
+                <span class="orange">versionControl</span>: <span class="blue">Git</span>
             }
             </code>
             </pre>
