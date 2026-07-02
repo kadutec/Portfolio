@@ -43,32 +43,30 @@
       <div class="hero-content">
 
         <span class="hero-subtitle">
-          Hello! I Am Carlos
+          E aí! Eu sou Carlos
         </span>
-
+        
         <h1>
-
-          I Create
-
+          
+          Desenvolvendo Aplicações 
+          
           <span class="outline">
-            Beautiful
+            Web
           </span>
-
-          Websites.
-
+          
+          Modernas.
+          
         </h1>
 
-        <p>
-
-          Desenvolvedor PHP • Laravel • Vue.js
-
+        <p class="hero-subtitle">
+          Software Engineer com foco em desenvolvimento Full Stack. Desenvolvo aplicações web utilizando C#, .NET, PHP, Laravel, CodeIgniter e Vue.js, criando APIs REST, sistemas corporativos e interfaces modernas.
         </p>
 
-        <button class="btn-primary">
+        <!-- <button class="btn-primary">
 
           Ver Projetos
 
-        </button>
+        </button> -->
 
       </div>
 
