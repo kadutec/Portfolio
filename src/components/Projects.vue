@@ -1,7 +1,6 @@
 <template>
   <section id="github" class="github">
     <div class="container-git">
-
         <!-- PROFILE CARD -->
         <div class="profile-card" v-if="user">
 
@@ -34,12 +33,9 @@
         </div>
 
         </div>
-
         <!-- REPOS -->
         <div class="repos" v-if="repos.length">
-
         <h3>Repositórios recentes</h3>
-
         <div
             v-for="repo in repos.slice(0, 5)"
             :key="repo.id"
@@ -54,10 +50,8 @@
             🍴 {{ repo.forks_count }}
             </div>
         </div>
-
         </div>
     </div>
-
   </section>
 </template>
 
